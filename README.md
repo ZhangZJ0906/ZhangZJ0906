@@ -7,7 +7,7 @@
 
 **Name:** Zhang Li Jie  
 **Username:** zhangZJ0906  
-**Role:** Currently serving my mandatory military service / Tech Learner
+**Role:** Unemployed / Tech Learner
 
 **Skills:**
 
