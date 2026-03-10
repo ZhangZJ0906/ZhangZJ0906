@@ -27,5 +27,5 @@
 - **Personal**: [@zhangZJ0906](https://github.com/zhangZJ0906) (Personal projects & learning)
 - **Academic**: [@ZJ-Zhang-0906](https://github.com/ZJ-Zhang-0906) (School projects & coursework)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zhangZJ0906&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ZhangZJ0906&theme=dark&hide_border=true" />
+<p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ZhangZJ0906&theme=dark&hide_border=true" />
  </p>
